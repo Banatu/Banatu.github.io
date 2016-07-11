@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taiwan>
+  <loc category="Northeast">
+    <lin >http://www.cwb.gov.tw/V7/forecast/fishery/FSea/FSea08.htm</lin>
+    <bc>https://c2.staticflickr.com/6/5786/21465385785_eacd9365d3_k.jpg</bc>
+    <dic> 33</dic>
+  </loc>
+  <loc category="south">
+    <lin >http://www.cwb.gov.tw/V7/forecast/fishery/FSea/FSea13.htm</lin>
+    <bc>https://c2.staticflickr.com/6/5786/21465385785_eacd9365d3_k.jpg</bc>
+    <dic>33</dic>
+  </loc>
+  <loc category="West">
+    <lin >http://www.cwb.gov.tw/V7/forecast/fishery/FSea/FSea07.htm</lin>
+    <bc>https://c2.staticflickr.com/6/5786/21465385785_eacd9365d3_k.jpg</bc>
+    <dic>33</dic>
+  </loc>
+  <loc category="North" >
+    <lin>http://www.cwb.gov.tw/V7/forecast/fishery/FSea/FSea06.htm</lin>
+    <bc>https://c2.staticflickr.com/6/5786/21465385785_eacd9365d3_k.jpg</bc>
+    <dic> 55 </dic>
+  </loc>
+</taiwan>
