@@ -1,0 +1,169 @@
+.ppink {
+  color: tomato;
+  text-decoration: none;
+  display: inline-block;
+
+	padding: 5px 20px;
+
+}
+.ppink:hover {
+  color: lightgoldenrodyellow;
+	text-decoration: none;
+
+	padding:5px 20px;
+
+}
+.ppink:active {
+  color: black;
+}
+/*#banner {
+  text-align:center;
+  padding: 7px;
+}*/
+
+
+
+#logo{
+
+height: 65px;
+
+}
+
+
+#mekk{
+  background-color: black;
+  height: auto;
+}
+
+
+#mekk ul li{
+  display:inline;
+
+}
+
+
+#top_add {
+  /*width:100%;*/
+  background-color: green;
+}
+
+
+/*下
+面*/
+#undscor{
+  padding-top: 3px;
+  background-color: yellow;
+
+}
+
+h2 {
+  text-align:center;
+  font-size: 32px;
+}
+
+#nihichap li a {
+  /*position: relative;*/
+  display: block;
+  overflow: hidden;
+  /*width: 80%;
+  height: 80%;*/
+}
+
+#nihichap li img{
+
+
+transition: all 0.5s linear;
+}
+
+#nihichap li img:hover{
+
+/*transform: translate(-25px, -25px)*/
+transform:scale(1.2);
+}
+
+#ninecetome
+{
+  background-color: lightgoldenrodyellow;
+
+}
+
+/*九宮格的至中*/
+/*#ninecetome ul li{
+  display:inline;
+
+}
+
+#ninecetome ul li p{
+  font-size: 6px;
+
+}*/
+
+.wrap{
+padding: 10px;
+
+}
+
+@media screen and (max-width: 960px)
+{
+  #menu
+  {
+    display: none;
+  }
+  #opiion
+  {
+    display:inline;
+  }
+
+
+}
+#opiion
+{
+  display:none;
+}
+
+footer{
+background-color: mistyrose;
+}
+
+/*margin:0px auto;*/
+#foocen{
+height: 100px;
+
+}
+
+#creainf{
+  color: white;
+}
+
+/*slid test*/
+/*.sshow {display:none;}*/
+
+/*視差效果*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+
+.cenadd{
+  position: relative;
+  margin: auto;
+
+}
+
+＃foocen{
+  position: absolute;
+  left: 0px;
+  width: 200px;
+
+
+}
+
+div.text{
+
+width: 600px;
+  position: fixed;
+bottom: 0;
+right: 0;
+
+}
