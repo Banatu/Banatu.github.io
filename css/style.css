@@ -61,12 +61,16 @@ h2 {
   font-size: 32px;
 }
 
+
+
+
 #nihichap li a {
   /*position: relative;*/
   display: block;
   overflow: hidden;
   /*width: 80%;
   height: 80%;*/
+
 }
 
 #nihichap li img{
@@ -88,15 +92,15 @@ transform:scale(1.2);
 }
 
 /*九宮格的至中*/
-/*#ninecetome ul li{
-  display:inline;
+#ninecetome ul li{
+  /*display:inline;*/
 
 }
 
 #ninecetome ul li p{
   font-size: 6px;
 
-}*/
+}
 
 .wrap{
 padding: 10px;
@@ -128,7 +132,7 @@ background-color: mistyrose;
 /*margin:0px auto;*/
 #foocen{
 height: 100px;
-
+width: 100%;
 }
 
 #creainf{
@@ -159,11 +163,21 @@ height: 100px;
 
 }
 
-div.text{
+/*div.text{
 
 width: 600px;
-  position: fixed;
-bottom: 0;
-right: 0;
 
+
+}*/
+
+.calme {
+
+padding: 5px;
+
+
+}
+
+.texhei{
+  height:20px;
+  padding: 5px;
 }
